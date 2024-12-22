@@ -30,9 +30,9 @@ You can find my CV here: [Chunyun Tang's CV](assets/CV.pdf). If you're intereste
 
 
 # 📖 Educations
-- *2018.09 - 2021.06*, Master of Management in Land Resource Management, South China University of Technology, Guangzhou, China
+- **2018.09 - 2021.06**, Master of Management in Land Resource Management, **South China University of Technology**, Guangzhou, China
   - Supervised by Prof. Junmei Zang
-- *2014.09 - 2018.06*, Bachelor of Management in Land Resource Management, Inner Mongolia University, Hohhot, China
+- **2014.09 - 2018.06**, Bachelor of Management in Land Resource Management, **Inner Mongolia University**, Hohhot, China
   - Supervised by Prof. Yafeng Zou
 
 
