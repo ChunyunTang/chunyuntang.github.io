@@ -20,11 +20,7 @@ redirect_from:
 # Welcome! 
 I am Chunyun Tang.
 
-Two.
-
-Three.
-
-Four. **Currently, I am seeking geo Phd Programs**
+**Currently, I am applying for the PhD in Geography for 2025**
 
 You can find my CV here: [Chunyun Tang's CV](assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:chunyuntang2021@gmail.com).
 
