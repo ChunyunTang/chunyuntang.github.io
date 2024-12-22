@@ -18,9 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am Chunyun Tang.
+I am Chunyun Tang. I hold both undergraduate and master’s degrees in Land Resource Management.
 
-**Currently, I am applying for the PhD in Geography for 2025**
+My research interests are in sustainable agriculture, agroecosystem monitoring and modeling, with a particular focus on the interactions between climate change and land use, as well as ecosystem services and biodiversity conservation. I am dedicated to using remote sensing technology and modeling approaches to study ecosystem dynamics, with the goal of enhancing food security and promoting sustainable development.
+
+**Currently, I am applying for a PhD program in Geography, Agronomy, and Environmental Studies for Fall 2025.**
 
 You can find my CV here: [Chunyun Tang's CV](assets/CV.pdf). If you're interested in my work, don't hesitate to reach out via [email](mailto:chunyuntang2021@gmail.com).
 
