@@ -17,7 +17,3 @@ main:
 
   - title: "Work Experience"
     url: "/#-Work experience"
-
-    <!-- 正确：没有 target="_blank" -->
-<a href="#scholarships">🎖 Scholarships and Awards</a>
-
