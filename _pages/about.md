@@ -37,7 +37,7 @@ You can find my CV here: [Chunyun Tang's CV](assets/CV.pdf). If you're intereste
 
 
 # 🔥 News
-- *2024.12*: &nbsp;No New Papers.
+- *2024.12*: &nbsp; Currently, I am working on a project that uses remote sensing data to model the agroecosystem under different climate scenarios. To be precise, I am exploring the spatiotemporal changes and coupled coordination characteristics of agroecosystem resilience in the Pearl River Basin, China.
 
 
 # 📝 Publications 
