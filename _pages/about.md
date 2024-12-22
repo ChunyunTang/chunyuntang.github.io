@@ -103,7 +103,7 @@ Junmei Zang, **Chunyun Tang**, Qiuxiang Wang, Kuan Li, Lifan Li
 - - *2015.04* Merit Award of the 4th Case Analysis Competition of Higher Education Institutions on Public Management in Hohhot
 
 
-# 💻 Working Experience
+# 💻 Work Experience
 - - *2021.07 - 2024.07*  Guangdong Agribusiness Group Corporation, Guangzhou,China
   -  Assistant Supervisor, Asset and Resources Department
 
