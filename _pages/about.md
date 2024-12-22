@@ -45,17 +45,16 @@ You can find my CV here: [Chunyun Tang's CV](assets/CV.pdf). If you are interest
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2023</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[论文标题](论文链接)
+[Spatio-temporal Evolution and Influencing Factors of Agricultural Eco-efficiency in Guangdong Province under "Dual Carbon" Target]([论文链接](http://cjarrp.ijournals.cn/zgnyzyyqh/ch/reader/view_abstract.aspx?file_no=202310013&flag=1))
 
-**作者**, 作者, 作者
-期刊名称
-
-
+Junmei Zang, Siying Zhang, **Chunyun Tang**
+- Chinese Journal of Agricultural Resources and Regional Planning(in chinese)
 </div>
 </div>
+
 
 <!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
