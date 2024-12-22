@@ -45,10 +45,10 @@ You can find my CV here: [Chunyun Tang's CV](assets/CV.pdf). If you are interest
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Spatio-temporal Evolution and Influencing Factors of Agricultural Eco-efficiency in Guangdong Province under "Dual Carbon" Target]([论文链接](http://cjarrp.ijournals.cn/zgnyzyyqh/ch/reader/view_abstract.aspx?file_no=202310013&flag=1))
+[Spatio-temporal Evolution and Influencing Factors of Agricultural Eco-efficiency in Guangdong Province under "Dual Carbon" Target]([http://cjarrp.ijournals.cn/zgnyzyyqh/ch/reader/view_abstract.aspx?file_no=202310013&flag=1])
 
 Junmei Zang, Siying Zhang, **Chunyun Tang**
 - **Chinese Journal of Agricultural Resources and Regional Planning**(in chinese)
@@ -63,14 +63,25 @@ Junmei Zang, Siying Zhang, **Chunyun Tang**
 </div>
 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICTETS 2023</div><img src='../images/paper3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[Research on Spatial Imbalance and Influencing Factors of Cultivated Land Use Efficiency in Guangdong Province Based on Super-SBM Model ([https://www.chinalandscience.com.cn/zgtdkx/article/abstract/20210507])
 
+Junmei Zang, **Chunyun Tang**, Qiuxiang Wang, Kuan Li, Lifan Li
+- **China Land Science**(in chinese)
+</div>
+</div>
 
-- [lunwnetiimu](lianjie), zuoezhe, **zijizuozhe**, 3, 4 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Multi-functional Evaluation of Cultivated Land and An Analysis of the Temporal and Spatial Evolution of Guangzhou in the New Era]([https://www.aed.org.cn/nyzyyhjxb/ch/reader/view_abstract.aspx?file_no=20210221&flag=1])
 
+**Chunyun Tang**, Junmei Zang
+- **Chinese Journal of Agricultural Resources and Regional Planning**(in chinese)
+</div>
+</div>
 
 </div>
 </div>
@@ -84,12 +95,18 @@ Junmei Zang, Siying Zhang, **Chunyun Tang**
 
 
 
-# 🎖 Honors and Awards
-- - *2024.1* mingcheng
+# 🎖 Scholarships and Awards
+- - *2024.1* Top Management Trainee of 2023, Guangdong Agribusiness Group Corporation
+- - *2018-2020* Academic Scholarship of South China University of Technology
+- - *2019.09* Rookie Award for Land Economy Research of the Annual Conference on Chinese Land Economics
+- - *2015.12* Second-class Excellent Student Scholarship of Inner Mongolia University
+- - *2015.04* Merit Award of the 4th Case Analysis Competition of Higher Education Institutions on Public Management in Hohhot
 
 
 # 💻 Working Experience
-- - *2024.1* mingcheng
+- - *2021.07 - 2024.07*  Guangdong Agribusiness Group Corporation, Guangzhou,China
+  -  Assistant Supervisor, Asset and Resources Department
+
 
 
 ------
