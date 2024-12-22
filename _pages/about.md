@@ -99,6 +99,9 @@ Junmei Zang, **Chunyun Tang**, Qiuxiang Wang, Kuan Li, Lifan Li
 
 
 # 💻 Work Experience
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/working.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 - - *2021.07 - 2024.07*   Guangdong Agribusiness Group Corporation, Guangzhou,China
   -  Assistant Supervisor, Asset and Resources Department
 
