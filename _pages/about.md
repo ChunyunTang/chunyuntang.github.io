@@ -82,9 +82,6 @@ You can find my CV here: [Chunyun Tang's Curriculum Vitae]( ). If you are intere
 </div>
 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICTETS 2023</div><img src='../images/paper3.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 
 
 # 🎖 Honors and Awards
