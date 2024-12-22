@@ -66,7 +66,7 @@ Junmei Zang, Siying Zhang, **Chunyun Tang**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Research on Spatial Imbalance and Influencing Factors of Cultivated Land Use Efficiency in Guangdong Province Based on Super-SBM Model ([https://www.chinalandscience.com.cn/zgtdkx/article/abstract/20210507])
+[Research on Spatial Imbalance and Influencing Factors of Cultivated Land Use Efficiency in Guangdong Province Based on Super-SBM Model]([https://www.chinalandscience.com.cn/zgtdkx/article/abstract/20210507])
 
 Junmei Zang, **Chunyun Tang**, Qiuxiang Wang, Kuan Li, Lifan Li
 - **China Land Science**(in chinese)
@@ -96,11 +96,11 @@ Junmei Zang, **Chunyun Tang**, Qiuxiang Wang, Kuan Li, Lifan Li
 
 
 # 🎖 Scholarships and Awards
-- - *2024.1* Top Management Trainee of 2023, Guangdong Agribusiness Group Corporation
-- - *2018-2020* Academic Scholarship of South China University of Technology
-- - *2019.09* Rookie Award for Land Economy Research of the Annual Conference on Chinese Land Economics
-- - *2015.12* Second-class Excellent Student Scholarship of Inner Mongolia University
-- - *2015.04* Merit Award of the 4th Case Analysis Competition of Higher Education Institutions on Public Management in Hohhot
+- *2024.01* Top Management Trainee of 2023, Guangdong Agribusiness Group Corporation
+- *2018-2020* Academic Scholarship of South China University of Technology
+- *2019.09* Rookie Award for Land Economy Research of the Annual Conference on Chinese Land Economics
+- *2015.12* Second-class Excellent Student Scholarship of Inner Mongolia University
+- *2015.04* Merit Award of the 4th Case Analysis Competition of Higher Education Institutions on Public Management in Hohhot
 
 
 # 💻 Work Experience
