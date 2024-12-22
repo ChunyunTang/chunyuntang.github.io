@@ -95,7 +95,3 @@ You can find my CV here: [Chunyun Tang's Curriculum Vitae]( ). If you are intere
 
 ------
 
-
-<p align="center">
-  <i>座右铭</i>
-</p>
