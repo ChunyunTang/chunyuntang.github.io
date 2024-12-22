@@ -88,15 +88,8 @@ You can find my CV here: [Chunyun Tang's Curriculum Vitae]( ). If you are intere
 - - *2024.1* mingcheng
 
 
-
-
-
 # 💻 Working Experience
 - - *2024.1* mingcheng
-
-
-
-
 
 
 ------
