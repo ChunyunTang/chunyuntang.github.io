@@ -46,7 +46,7 @@ You can find my CV here: [Chunyun Tang's CV](assets/CV.pdf). If you're intereste
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Spatio-temporal Evolution and Influencing Factors of Agricultural Eco-efficiency in Guangdong Province under "Dual Carbon" Target]([http://cjarrp.ijournals.cn/zgnyzyyqh/ch/reader/view_abstract.aspx?file_no=202310013&flag=1])
+[Spatio-temporal Evolution and Influencing Factors of Agricultural Eco-efficiency in Guangdong Province under "Dual Carbon" Target](http://cjarrp.ijournals.cn/zgnyzyyqh/ch/reader/view_abstract.aspx?file_no=202310013&flag=1)
 
 Junmei Zang, Siying Zhang, **Chunyun Tang**
 - **Chinese Journal of Agricultural Resources and Regional Planning**(in chinese)
@@ -64,7 +64,7 @@ Junmei Zang, Siying Zhang, **Chunyun Tang**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Research on Spatial Imbalance and Influencing Factors of Cultivated Land Use Efficiency in Guangdong Province Based on Super-SBM Model]([https://www.chinalandscience.com.cn/zgtdkx/article/abstract/20210507])
+[Research on Spatial Imbalance and Influencing Factors of Cultivated Land Use Efficiency in Guangdong Province Based on Super-SBM Model](https://www.chinalandscience.com.cn/zgtdkx/article/abstract/20210507)
 
 Junmei Zang, **Chunyun Tang**, Qiuxiang Wang, Kuan Li, Lifan Li
 - **China Land Science**(in chinese)
@@ -74,7 +74,7 @@ Junmei Zang, **Chunyun Tang**, Qiuxiang Wang, Kuan Li, Lifan Li
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multi-functional Evaluation of Cultivated Land and An Analysis of the Temporal and Spatial Evolution of Guangzhou in the New Era]([https://www.aed.org.cn/nyzyyhjxb/ch/reader/view_abstract.aspx?file_no=20210221&flag=1])
+[Multi-functional Evaluation of Cultivated Land and An Analysis of the Temporal and Spatial Evolution of Guangzhou in the New Era](https://www.aed.org.cn/nyzyyhjxb/ch/reader/view_abstract.aspx?file_no=20210221&flag=1)
 
 **Chunyun Tang**, Junmei Zang
 - **Chinese Journal of Agricultural Resources and Regional Planning**(in chinese)
