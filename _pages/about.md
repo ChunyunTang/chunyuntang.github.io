@@ -18,13 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am nobody.
+I am Chunyun Tang.
 
 Two.
 
 Three.
 
-Four. **Currently, I know everything.**
+Four. **Currently, I am seeking geo Phd Programs**
 
 You can find my CV here: [Chunyun Tang's CV](assets/CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:chunyuntang2021@gmail.com).
 
@@ -101,7 +101,7 @@ Junmei Zang, **Chunyun Tang**, Qiuxiang Wang, Kuan Li, Lifan Li
 
 
 # 💻 Work Experience
-- *2021.07 - 2024.07*   Guangdong Agribusiness Group Corporation, Guangzhou,China
+- - *2021.07 - 2024.07*   Guangdong Agribusiness Group Corporation, Guangzhou,China
   -  Assistant Supervisor, Asset and Resources Department
 
 
