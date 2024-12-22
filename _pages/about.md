@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am Chunyun Tang. I hold both undergraduate and master’s degrees in Land Resource Management.
+Hi! I am Chunyun Tang. I hold both undergraduate and master’s degrees in Land Resource Management.
 
 My research interests are in sustainable agriculture, agroecosystem monitoring and modeling, with a particular focus on the interactions between climate change and land use, as well as ecosystem services and biodiversity conservation. I am dedicated to using remote sensing technology and modeling approaches to study ecosystem dynamics, with the goal of enhancing food security and promoting sustainable development.
 
