@@ -35,22 +35,23 @@ You can find my CV here: [Chunyun Tang's Curriculum Vitae]( ). If you are intere
 
 # 📖 Educations
 - *2018.09 - 2021.06*, Master of Management in Land Resource Management, South China University of Technology, Guangzhou, China
-  - Supervised by [Prof. Junmei Zang]
+  - Supervised by Prof. Junmei Zang
 - *2014.09 - 2018.06*, Bachelor of Management in Land Resource Management, Inner Mongolia University, Hohhot, China
-  - Supervised by [Prof. Yafeng Zou]
+  - Supervised by Prof. Yafeng Zou
 
 
 # 🔥 News
-- *2024.12*: &nbsp;New Papers.
+- *2024.12*: &nbsp;No New Papers.
 
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2023</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[lunwenbiaoti](lunwenlianjie)
+[论文标题](论文链接)
 
-**Zuozhe**, 2zuo, 3zuo
+**作者**, 作者, 作者
+期刊名称
 
 
 </div>
