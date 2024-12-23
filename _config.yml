@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chunyun Tang"
-description              : "Geo Student"
+description              : " "
 repository               : "https://github.com/ChunyunTang"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chunyun Tang"
   avatar           : "images/profile.png"
-  bio              : "SCUT"
+  bio              : " "
   location         : "Guangzhou,China"
   employer         :
   pubmed           : 
