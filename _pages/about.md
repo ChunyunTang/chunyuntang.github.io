@@ -22,7 +22,7 @@ Hi! I am Chunyun Tang. I hold both undergraduate and master’s degrees in Land 
 
 **Currently, I am applying for a PhD program in Geography, Agronomy, and Environmental Studies for Fall 2025.**
 
-My research interests are interactions between climate change and land use, ecosystem services and biodiversity conservation, with a particular focus on sustainable agriculture, agroecosystem monitoring and modeling. I am dedicated to using remote sensing technology and modeling approaches to study ecosystem dynamics, with the goal of enhancing food security and promoting sustainable development.
+My research interests lie in the interactions between climate change, land use, ecosystem services, and biodiversity conservation, particularly focusing on sustainable agriculture and agroecosystem monitoring and modeling. I am passionate about using remote sensing technology and modeling approaches to study ecosystem dynamics, aiming to improve food security and promote sustainable development.
 
 You can find my CV here: [Chunyun Tang's CV](assets/CV.pdf). If you're interested in my work, don't hesitate to reach out via [email](mailto:chunyuntang2021@gmail.com).
 
